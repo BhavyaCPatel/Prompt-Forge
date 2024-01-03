@@ -11,8 +11,7 @@ const Home = () => {
             <p className="desc text-center">
                 An Open-Source AI prompting tool fo the modern world to discover, create and share usefull prompts.
             </p>
-            
-            <Feed/>
+            <Feed />
         </section>
     )
 }
