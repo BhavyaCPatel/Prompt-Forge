@@ -5,6 +5,9 @@ import '@styles/globals.css'
 export const metadata = {
     title: 'Prompt Forge',
     description: "A web-based platform for creating and sharing prompts.",
+    icons: {
+        icon:'./icon.png'
+    }
 }
 
 const RootLayout = ({ children }) => {
